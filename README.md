@@ -37,7 +37,7 @@ If you do, then continue.
 
 # Step 3: Optional, but recommended: configure a local environment for Jekyll.
 
-What is this step all about? It's about configuring a local environment on your own computer (my instructions are tailored for Mac OS X) that allows you to run a local instance of Jekyll on your own machine as a test environment.  This allows you to check, quickly, whether everything is working, before deploying changes to the server.  It is often easier to see in a local environment what is wrong that it is to see in the "cloud".
+What is this step all about? It's about configuring a local environment on your own computer that allows you to run a local instance of Jekyll on your own machine as a test environment.  This allows you to check, quickly, whether everything is working, before deploying changes to the server.  It is often easier to see in a local environment what is wrong that it is to see in the "cloud".
 
 What makes this step a bit onerous is that to really make things work properly, you need, in addition to git, which we assume you already have, all of the following:
 
@@ -45,8 +45,10 @@ What makes this step a bit onerous is that to really make things work properly, 
 |------|----------------------------|---------|---------|
 
 
-However, since this step is a bit onerous, and isn't strictly necessary, I've factored it out into its own .md file: [HOWTO_INSTALL_LOCAL_JEKYLL_MACOS.md](HOWTO_INSTALL_LOCAL_JEKYLL_MACOS.md).
+However, since this step is a bit onerous, and isn't strictly necessary, I've factored it out into its own .md file: 
+* [HOWTO_INSTALL_LOCAL_JEKYLL_MACOS.md](HOWTO_INSTALL_LOCAL_JEKYLL_MACOS.md).  
 
+I've only provided instructions for Mac OS X.  If someone sends me a pull request with instructions for Windows or some flavor of Linux, I'm happy to included them.
 
 Once you've either done that, or not, you may proceed to the next step.
 
