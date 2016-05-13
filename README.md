@@ -57,6 +57,7 @@ Once you've either done that, or not, you may proceed to the next step.
 
 Here are several articles on how to do that:
 
+* http://jmcglone.com/guides/github-pages/
 * https://jekyllrb.com/docs/github-pages/
 * http://www.stephaniehicks.com/githubPages_tutorial/pages/githubpages-jekyll.html
 * https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/
