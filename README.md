@@ -43,7 +43,7 @@ What makes this step a bit onerous is that to really make things work properly, 
 
 | Ruby | Ruby Version Manager (rvm) | Bundler | jekyll  |
 |------|----------------------------|---------|---------|
-|      |                            |         |         |
+
 
 However, since this step is a bit onerous, and isn't strictly necessary, I've factored it out into its own .md file: [HOWTO_INSTALL_LOCAL_JEKYLL_MACOS.md](HOWTO_INSTALL_LOCAL_JEKYLL_MACOS.md).
 
