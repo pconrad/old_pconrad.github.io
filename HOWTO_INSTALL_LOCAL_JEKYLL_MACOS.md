@@ -190,3 +190,7 @@ Brief explanation of what you have here:
 
 
 If you type: `jekyll serve` you'll get a local server running at [http://localhost:4000](http://localhost:4000) where you can see your site.
+
+# Next Steps
+
+Read this: https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/
