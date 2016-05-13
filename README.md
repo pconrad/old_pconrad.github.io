@@ -40,6 +40,7 @@ If you do, then continue.
 What is this step all about? It's about configuring a local environment on your own computer (my instructions are tailored for Mac OS X) that allows you to run a local instance of Jekyll on your own machine as a test environment.  This allows you to check, quickly, whether everything is working, before deploying changes to the server.  It is often easier to see in a local environment what is wrong that it is to see in the "cloud".
 
 What makes this step a bit onerous is that to really make things work properly, you need, in addition to git, which we assume you already have, all of the following:
+
 | Ruby | Ruby Version Manager (rvm) | Bundler | jekyll  |
 |------|----------------------------|---------|---------|
 |      |                            |         |         |
