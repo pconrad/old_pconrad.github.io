@@ -46,7 +46,7 @@ What makes this step a bit onerous is that to really make things work properly, 
 
 
 However, since this step is a bit onerous, and isn't strictly necessary, I've factored it out into its own .md file: 
-* [HOWTO_INSTALL_LOCAL_JEKYLL_MACOS.md](HOWTO_INSTALL_LOCAL_JEKYLL_MACOS.md).  
+* [HOWTO_INSTALL_LOCAL_JEKYLL_MACOS.md](HOWTO_INSTALL_LOCAL_JEKYLL_MACOS.md)  
 
 I've only provided instructions for Mac OS X.  If someone sends me a pull request with instructions for Windows or some flavor of Linux, I'm happy to included them.
 
