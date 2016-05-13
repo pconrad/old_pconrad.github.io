@@ -1,6 +1,6 @@
 # pconrad.github.io
 
-This is the github repo for the website pconrad.github.io, which is hosted by Github Pages, and produced using software called Jekyll.
+This is the github repo for the website [pconrad.github.io](https://pconrad.github.io), which is hosted by Github Pages, and produced using software called Jekyll.
 
 Jekyll is a "blog-aware Ruby-based static site generator".  It isn't exactly a "content management system", but it has some aspects of one.   The best part is that there is no "database" to configure: all of the content is stored in static files kept in a github repository (this one).   And the web hosting provider is Github itself.
 
