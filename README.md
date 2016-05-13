@@ -52,6 +52,17 @@ I've only provided instructions for Mac OS X.  If someone sends me a pull reques
 
 Once you've either done that, or not, you may proceed to the next step.
 
+
+# Step 4: Set up a Jekyll site in your github repo.
+
+Here are several articles on how to do that:
+
+* https://jekyllrb.com/docs/github-pages/
+* http://www.stephaniehicks.com/githubPages_tutorial/pages/githubpages-jekyll.html
+* https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/
+* http://anandmanisankar.com/posts/set-up-blog-jekyll-github-pages/
+* https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/
+
 # Step 5: Configuring TravisCI with Jekyll and Github Pages (optional)
 
 This step is optional too, but highly recommended for any site that is "mission critical", i.e where if the site is not working you certainly *want to know* right away.
