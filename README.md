@@ -52,3 +52,8 @@ I've only provided instructions for Mac OS X.  If someone sends me a pull reques
 
 Once you've either done that, or not, you may proceed to the next step.
 
+# Step 5: Configuring TravisCI with Jekyll and Github Pages (optional)
+
+This step is optional too, but highly recommended for any site that is "mission critical", i.e where if the site is not working you certainly *want to know* right away.
+
+Instructions are here:  [https://jekyllrb.com/docs/continuous-integration/](https://jekyllrb.com/docs/continuous-integration/)
