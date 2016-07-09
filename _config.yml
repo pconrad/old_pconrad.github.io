@@ -1,0 +1,21 @@
+github_url: https://github.com/pconrad/pconrad.github.io
+
+
+kramdown:
+   parse_block_html: true
+
+exclude: [vendor]
+
+timezone: America/Los_Angeles
+
+collections:
+  topics:
+    output: true
+    permalink: /topics/:path/
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: default
