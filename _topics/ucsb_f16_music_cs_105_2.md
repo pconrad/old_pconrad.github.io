@@ -24,3 +24,14 @@ The range of the alto saxophone is from concert D♭3 (the D♭ below middle C�
 < a title="Cello range © Scottish Chamber Orchestra." href="http://www.icompose.org/toolkit/the-cello-part-i/">
 <img src="cello-range.gif" alt="cello range" >
 </a>
+</div>
+
+The image here (from the Scotland Chamber Orchestra's website) is an "indication of the range of the cello, from its lowest note (C two octaves below middle C) to approx C an octave above middle C."
+
+According to that site:
+
+> It is possible to play even higher, for which the player would use ‘thumb position’. But if writing high cello passages in a chamber 
+> music context, ask yourself whether high passages would be served just as well being played by [another instrument] 
+> or if you’re deliberately using this extreme of the instrument’s range for effect.
+
+ 
