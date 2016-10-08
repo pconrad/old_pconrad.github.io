@@ -20,9 +20,9 @@ The range of the alto saxophone is from concert D♭3 (the D♭ below middle C�
 
 # Cello
 
-<div style="float:right; width: 300px;">
-< a title="Cello range © Scottish Chamber Orchestra." href="http://www.icompose.org/toolkit/the-cello-part-i/">
-<img src="cello-range.gif" alt="cello range" >
+<div style="float:right; width: 300px;" markdown="1">
+<a title="Cello range © Scottish Chamber Orchestra." href="http://www.icompose.org/toolkit/the-cello-part-i/">
+<img src="cello-range.gif" alt="cello range">
 </a>
 </div>
 
