@@ -8,15 +8,15 @@ These are my own notes for a [UCSB F16 MUSIC CS106 Section 2](https://ccs.ucsb.e
 # Recitative Examples
 
 * Symphony No. 9, Ludwig van Beethoven, 4th Movement.  
-    * Berlin Celebration Concert, Leonard Bernstein, Conductor.
-        * [Instrumental Recitative, 57:12 to 1:01:44](https://www.youtube.com/watch?v=IInG5nY_wrU&t=57m12s)
-        * [Vocal Recitative, 1:05:40 to 1:07:00 ](https://www.youtube.com/watch?v=IInG5nY_wrU&t=1h05m40s)
+    * <strong>Berlin Celebration Concert, Leonard Bernstein, Conductor.</strong>
+        * [Instrumental Recitative, 57:12 to 1:01:44 (4 min 32 sec)](https://www.youtube.com/watch?v=IInG5nY_wrU&t=57m12s)
+        * [Vocal Recitative, 1:05:40 to 1:07:00 (1 min 20 sec)](https://www.youtube.com/watch?v=IInG5nY_wrU&t=1h05m40s)
     * Chicago Symphony Orchestra - Riccardo Muti, Conductor, Eric Owens, Bass-Baritone
         * [Instrumental Recitative, 52:12 to 55:23](https://www.youtube.com/watch?v=rOjHhS5MtvA&t=52m12s)
         * [Vocal Recitative 58:56 to to 1:00:18](https://www.youtube.com/watch?v=rOjHhS5MtvA&t=58m56s)  
 
 * Babylon was a great city, from Belshazzar's Feast, by Sir William Walton
-    * <strong markdown="1">[BBC Proms 2002](https://www.youtube.com/watch?v=Hff9BUXIdJY&t=11m6s), [Baritone Sir Willard White](https://en.wikipedia.org/wiki/Willard_White)</strong>
+    * <strong markdown="1">[BBC Proms 2002 (1 min 6 sec)](https://www.youtube.com/watch?v=Hff9BUXIdJY&t=11m6s), [Baritone Sir Willard White](https://en.wikipedia.org/wiki/Willard_White)</strong>
     * [Boston Symphony, 1960](https://www.youtube.com/watch?v=eluBwa7GfHg&t=11m22s), [Donald Gramm](https://en.wikipedia.org/wiki/Donald_Gramm)
 
 * St. Matthew Passion, BWV 244, J.S. Bach
