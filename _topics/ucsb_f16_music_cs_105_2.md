@@ -23,7 +23,7 @@ These are my own notes for a [UCSB F16 MUSIC CS106 Section 2](https://ccs.ucsb.e
     * Karl Richter (1971)
        * [Peter says he will never deny Jesus---Evangelist, Peter and Jesus](https://www.youtube.com/watch?v=Xdl0m1v5el8&t=45m25s)
        * [Jesus is betrayed---Evangelist, Jesus, and Judas](https://www.youtube.com/watch?v=Xdl0m1v5el8&t=1h07m40s)
-
+       * [Peter denies Jesus three times---Evangelist, Peter, two women](https://www.youtube.com/watch?v=Xdl0m1v5el8&t=1h42m23s)
 
 
 <div style="page-break-before: always;"></div>
