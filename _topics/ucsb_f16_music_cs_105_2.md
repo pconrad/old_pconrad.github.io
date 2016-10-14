@@ -7,6 +7,11 @@ These are my own notes for a [UCSB F16 MUSIC CS106 Section 2](https://ccs.ucsb.e
 
 # Recitative Examples
 
+* Symphony No. 9, Ludwig van Beethoven, 4th Movement.  
+    * Chicago Symphony Orchestra - Riccardo Muti, Conductor, Eric Owens, Bass-Baritone
+        * [Instrumental Recitative to 52:12 to 55:23](https://www.youtube.com/watch?v=rOjHhS5MtvA&t=52m12s)
+        * [Vocal Recitative 58:56 to to 1:00:18](https://www.youtube.com/watch?v=rOjHhS5MtvA&t=58m56s)  
+
 * Babylon was a great city, from Belshazzar's Feast, by Sir William Walton
     * [BBC Proms 2002](https://www.youtube.com/watch?v=Hff9BUXIdJY&t=11m6s), [Baritone Sir Willard White](https://en.wikipedia.org/wiki/Willard_White)
     * [Boston Symphony, 1960](https://www.youtube.com/watch?v=eluBwa7GfHg&t=11m22s), [Donald Gramm](https://en.wikipedia.org/wiki/Donald_Gramm)
