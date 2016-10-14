@@ -25,6 +25,9 @@ These are my own notes for a [UCSB F16 MUSIC CS106 Section 2](https://ccs.ucsb.e
        * [Jesus is betrayed---Evangelist, Jesus, and Judas](https://www.youtube.com/watch?v=Xdl0m1v5el8&t=1h07m40s)
        * <strong markdown="1">[Peter denies Jesus three times---Evangelist, Peter, two women (2 min 40 sec)](https://www.youtube.com/watch?v=Xdl0m1v5el8&t=1h42m23s)</strong>
 
+* Marriage of Figaro, W. A. Mozart
+   * [First Recitative, Susanna explains the Count's scheme to Figaro 2m 31sec](https://www.youtube.com/watch?v=IugFH6PxeMQ&t=10m15s)
+       * Figaro - KNUT SKRAM, Susanna - ILEANA COTRUBAS,  Glyndebourne Festival Opera in 1973
 
 <div style="page-break-before: always;"></div>
 
