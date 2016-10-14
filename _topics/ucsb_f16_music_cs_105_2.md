@@ -5,6 +5,16 @@ desc: "Leslie Hogan's 'Favorite Things' Course"
 
 These are my own notes for a [UCSB F16 MUSIC CS106 Section 2](https://ccs.ucsb.edu/courses/favorite-things-2).
 
+# Recitative Examples
+
+* Babylon was a great city, from Belshazzar's Feast, by Sir William Walton
+    * [BBC Proms 2002](https://www.youtube.com/watch?v=Hff9BUXIdJY&t=11m6s), [Baritone Sir Willard White](https://en.wikipedia.org/wiki/Willard_White)
+    * [Boston Symphony, 1960](https://www.youtube.com/watch?v=eluBwa7GfHg&t=11m22s), [Donald Gramm](https://en.wikipedia.org/wiki/Donald_Gramm)
+    
+
+
+
+
 <div style="page-break-before: always;"></div>
 
 # Instrument Ranges
