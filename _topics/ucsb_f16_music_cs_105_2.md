@@ -8,8 +8,11 @@ These are my own notes for a [UCSB F16 MUSIC CS106 Section 2](https://ccs.ucsb.e
 # Recitative Examples
 
 * Symphony No. 9, Ludwig van Beethoven, 4th Movement.  
+    * Berlin Celebration Concert, Leonard Bernstein, Conductor.
+        * [Instrumental Recitative, 57:12 to 1:01:44](https://www.youtube.com/watch?v=IInG5nY_wrU&t=57m12s)
+        * [Vocal Recitative, 1:05:40 to 1:07:00 ](https://www.youtube.com/watch?v=IInG5nY_wrU&t=1h05m40s)
     * Chicago Symphony Orchestra - Riccardo Muti, Conductor, Eric Owens, Bass-Baritone
-        * [Instrumental Recitative to 52:12 to 55:23](https://www.youtube.com/watch?v=rOjHhS5MtvA&t=52m12s)
+        * [Instrumental Recitative, 52:12 to 55:23](https://www.youtube.com/watch?v=rOjHhS5MtvA&t=52m12s)
         * [Vocal Recitative 58:56 to to 1:00:18](https://www.youtube.com/watch?v=rOjHhS5MtvA&t=58m56s)  
 
 * Babylon was a great city, from Belshazzar's Feast, by Sir William Walton
