@@ -18,7 +18,7 @@ These are my own notes for a [UCSB F16 MUSIC CS106 Section 2](https://ccs.ucsb.e
 * Babylon was a great city, from Belshazzar's Feast, by Sir William Walton
     * <strong markdown="1">[BBC Proms 2002 (1 min 6 sec)](https://www.youtube.com/watch?v=Hff9BUXIdJY&t=11m6s), [Baritone Sir Willard White](https://en.wikipedia.org/wiki/Willard_White)</strong>
     * [Boston Symphony, 1960](https://www.youtube.com/watch?v=eluBwa7GfHg&t=11m22s), [Donald Gramm](https://en.wikipedia.org/wiki/Donald_Gramm)
-    * Score: [PDF](BabylonWasAGreatCity-Walton.pdf)[PNG](BabylonWasAGreatCity-Walton.png)
+    * Score: [PDF](BabylonWasAGreatCity-Walton.pdf){: data-ajax="false" } [PNG](BabylonWasAGreatCity-Walton.png){: data-ajax="false" }
 
 * St. Matthew Passion, BWV 244, J.S. Bach
     * Karl Richter (1971)
