@@ -5,6 +5,20 @@ desc: "Leslie Hogan's 'Favorite Things' Course"
 
 These are my own notes for a [UCSB F16 MUSIC CS106 Section 2](https://ccs.ucsb.edu/courses/favorite-things-2).
 
+# Sicilianas
+
+* Classical: [W.A. Mozart, Piano Concerto in A, K488, 2nd Movement (F# minor)](https://www.youtube.com/watch?v=Y85rKEEkmHw)
+    * Pianist: Vladimir Horowitz
+    
+    
+* 20th Century:  [György Kurtág, op. 24, Kafka-Fragmente, for soprano and violin,	1985–1986, part 2: Die Wahre Weg ("The true path").](https://www.youtube.com/watch?v=u0N8cqEbLyQ&t=16m17s
+    * [György Kurtág, b. 1926](https://en.wikipedia.org/wiki/Gy%C3%B6rgy_Kurt%C3%A1g) op. 24	Kafka-Fragmente	soprano and violin	1985–1986
+        * György Kurtág was born in Lugoj in the Banat region, Romania.
+        * Following the Hungarian uprising in 1956, studied with  Max Deutsch, Olivier Messiaen and Darius Milhaud in Paris
+        * Composer in residence, Berlin Philharmonic (1993–95)
+        * Lives in Bordeaux France with his wife, since 2002.
+        
+    
 # Recitative Examples
 
 * Symphony No. 9, Ludwig van Beethoven, 4th Movement.  
